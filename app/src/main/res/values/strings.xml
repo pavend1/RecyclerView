@@ -1,3 +1,74 @@
 <resources>
     <string name="app_name">RecyclerView</string>
+
+    <string name="pizza_chat_name">Pizza</string>
+    <string name="jija_message_author">jija</string>
+    <string name="jija_message">Yes, they are necessary</string>
+    <string name="jija_message_date">11:38 AM</string>
+
+    <string name="elon_chat_name">Elon</string>
+    <string name="elon_message">I love /r/Reddit!</string>
+    <string name="elon_message_date">12:44 AM</string>
+
+    <string name="pasha_chat_name">Pasha</string>
+    <string name="pasha_message">How are u?</string>
+    <string name="pasha_message_date">Fri</string>
+
+    <string name="telegram_chat_name">Telegram Support</string>
+    <string name="telegram_message_author">Support</string>
+    <string name="telegram_message">Yes it happened.</string>
+    <string name="telegram_message_date">Thu</string>
+
+    <string name="karina_chat_name">Karina</string>
+    <string name="karina_message">Okay</string>
+    <string name="karina_message_date">Wed</string>
+
+    <string name="marilyn_chat_name">Marilyn</string>
+    <string name="marilyn_message">Will it ever happen</string>
+    <string name="marilyn_message_date">May 02</string>
+    <string name="archive">Archive</string>
+
+    <string name="anonymous">anonymous</string>
+    <string name="unknown">unknown</string>
+
+    <string name="additional_message_1">additional_message_1</string>
+    <string name="additional_message_2">additional_message_2</string>
+    <string name="additional_message_3">additional_message_3</string>
+    <string name="additional_message_4">additional_message_4</string>
+    <string name="additional_message_5">additional_message_5</string>
+    <string name="additional_message_6">additional_message_6</string>
+    <string name="additional_message_7">additional_message_7</string>
+    <string name="additional_message_8">additional_message_8</string>
+    <string name="additional_message_9">additional_message_9</string>
+    <string name="additional_message_10">additional_message_10</string>
+    <string name="additional_message_11">additional_message_11</string>
+    <string name="additional_message_12">additional_message_12</string>
+    <string name="additional_message_13">additional_message_13</string>
+    <string name="additional_message_14">additional_message_14</string>
+    <string name="additional_message_15">additional_message_15</string>
+    <string name="additional_message_16">additional_message_16</string>
+    <string name="additional_message_17">additional_message_17</string>
+    <string name="additional_message_18">additional_message_18</string>
+    <string name="additional_message_19">additional_message_19</string>
+    <string name="additional_message_20">additional_message_20</string>
+    <string name="additional_message_21">additional_message_21</string>
+    <string name="additional_message_22">additional_message_22</string>
+    <string name="additional_message_23">additional_message_23</string>
+    <string name="additional_message_24">additional_message_24</string>
+    <string name="additional_message_25">additional_message_25</string>
+    <string name="additional_message_26">additional_message_26</string>
+    <string name="additional_message_27">additional_message_27</string>
+    <string name="additional_message_28">additional_message_28</string>
+    <string name="additional_message_29">additional_message_29</string>
+    <string name="additional_message_30">additional_message_30</string>
+    <string name="additional_message_31">additional_message_31</string>
+    <string name="additional_message_32">additional_message_32</string>
+    <string name="additional_message_33">additional_message_33</string>
+    <string name="additional_message_34">additional_message_34</string>
+    <string name="additional_message_35">additional_message_35</string>
+    <string name="additional_message_36">additional_message_36</string>
+    <string name="additional_message_37">additional_message_37</string>
+    <string name="additional_message_38">additional_message_38</string>
+    <string name="additional_message_39">additional_message_39</string>
+    <string name="additional_message_40">additional_message_40</string>
 </resources>
